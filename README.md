@@ -29,5 +29,7 @@ Somos una fuente independiente de consulta y monitoreo sobre la salud de Interne
 Nuestro equipo publica trimestralmente un informe sobre el estado de la salud del internet en la isla, donde expone los métodos y técnicas que se utiliza el gobierno para aplicar censura de inernet en la isla.
 
 - [Informe #6](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-6_Jul-Sept-2024.pdf)
+- [Informe #2](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-2_Jun-Ago-2023.pdf)
+- [Informe #1](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-1_Mar-May-2023.pdf)
 
 
