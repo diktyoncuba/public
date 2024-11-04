@@ -90,4 +90,6 @@ bloqueados en Cuba el encabezado del servidor contenía V2R2C00-IAE/1.0 y lo aso
 
 ---
 
-**NOTA:** *Para más información se puede consultar nuestra seeción de [informes](https://github.com/diktyoncuba/public/tree/develop/Informes) en donde se profundiza en estos temas y en nuestra secciones de sitios censurados hay un histórico del comportamiento de los [sitios webs](https://github.com/diktyoncuba/public/tree/develop/censored_web_sites) que monitorizamos.*
+> **NOTA:** *Para más información se puede consultar nuestra seeción de [informes](https://github.com/diktyoncuba/public/tree/develop/Informes) en donde se profundiza en estos temas y en nuestra secciones de sitios censurados hay un histórico del comportamiento de los [sitios webs](https://github.com/diktyoncuba/public/tree/develop/censored_web_sites) que monitorizamos.*
+>
+> Gran parte de los sitios webs monitoreados  y su clasificación se basa en [CitizebLab](https://github.com/citizenlab/test-lists/blob/master/lists/cu.csv), otros han sido seleccionados por nuestros colaboradores.
