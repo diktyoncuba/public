@@ -50,6 +50,12 @@ Nuestro equipo publica trimestralmente un informe sobre el estado de la salud de
 - [Informe #2](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-2_Jun-Ago-2023.pdf)
 - [Informe #1](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-1_Mar-May-2023.pdf)
 
+# Investigaciones adicionales
+Adicionalmente, publicamos las investigaciones adicionales o complementarias a los informes trimestrales.
+
+- [Corte de Internet del 18 de octubre de 2024](https://github.com/diktyoncuba/public/blob/main/Informes/Corte%20de%20Internet%20Octubre%202024.pdf)
+- [Corte de Internet del 6 de noviembre de 2024](https://github.com/diktyoncuba/public/blob/main/media/DocumentoPorSubir.pdf)
+- [Corte de Internet del 4 de diciembre de 2024](https://github.com/diktyoncuba/public/blob/main/media/DocumentoPorSubir.pdf)
 
 # Investigaciones y descubrimientos
 
