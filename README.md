@@ -42,6 +42,7 @@ Nos dedicamos a:
 <summary></summary>
 Nuestro equipo publica trimestralmente un informe sobre el estado de la salud del Internet en la isla, donde expone los métodos y técnicas que se utiliza el gobierno para aplicar censura de Internet en la isla.
 
+- [Informe #7](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-7_Oct-Dic-2024.pdf)
 - [Informe #6](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-6_Jul-Sept-2024.pdf)
 - [Informe #5](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-5_Abr-Jun-2024.pdf)
 - [Informe #4](https://github.com/diktyoncuba/public/blob/main/Informes/Informe-4_Ene-Mar-2024.pdf)
